@@ -1,0 +1,17 @@
+# Setup
+title:        Hyunjun
+tagline:      Freeman
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Hyunjun Kim
+  url:        http://hyunjun.kim
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown

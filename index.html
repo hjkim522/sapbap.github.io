@@ -1,32 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Hyunjun Kim</title>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:200">
-  <link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/pure-min.css" integrity="sha384-UQiGfs9ICog+LwheBSRCt1o5cbyKIHbwjWscjemyBMT9YCUMZffs6UqUTd0hObXD" crossorigin="anonymous">
-  <style type="text/css">
-    .header {
-      /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-      max-width: 768px;
-      margin: 0 auto;
-      padding: 1em;
-      text-align: center;
-      font-size: 24px;
-      /*border-bottom: 1px solid #eee;*/
-      /*background: #fff;*/
-      color: #333;
-      /*letter-spacing: 0.05em;*/
-      margin: 0;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -60%);
-    };
-  </style>
-</head>
-<body>
-  <div class="header">
-    <h1>Hyunjun Kim</h1>
-  </div>
-</body>
-</html>
+---
+layout: default
+title: {{ site.name }}
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
