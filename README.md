@@ -1,69 +1,34 @@
-# Jekyll Cayman theme
+# Bef is a responsive jekyll theme
 
-This is a [Jekyll][1] theme for [@jasonlong][2]'s [Cayman theme][4] on [GitHub Pages][3].
+Bef - Blog Enjoy Freedom is a responsive jekyll theme which created to be simple and freedom.
 
-Cayman is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
+## Demo
 
-You can preview the theme at http://jasonlong.github.io/cayman-theme or with real content at http://jasonlong.github.io/geo_pattern.
+Check the theme in action [Demo](https://artemsheludko.github.io/bef/)
 
-![](http://cl.ly/image/1T3r3d18311V/content)
+The main page would look like this:
 
-# How to use it?
+![Main page preview](https://github.com/artemsheludko/bef/blob/master/assets/img/bef_main_page.jpg?raw=true)
 
-Download the theme @ http://github.com/pietromenna/jekyll-cayman-theme/archive/master.zip
+The post page would look like this:
 
-Unzip it and use it as a regular jekyll folder.
+![Post page preview](https://github.com/artemsheludko/bef/blob/master/assets/img/bef_post.jpg?raw=true)
 
-```
-$ unzip jekyll-cayman-theme-master.zip
-```
+## Features
 
-Get inside the newly extracted folder
-```
-$ cd jekyll-cayman-theme-master
-```
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Vide](http://vodkabears.github.io/vide/)
+- [Disqus](https://disqus.com/)
+- [MailChimp](https://mailchimp.com/)
+- [Formspree!](https://formspree.io/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- Share Buttons, Recent Post, Section Author, Contact and more...
 
-Get the required gems
-```
-$ bundle install
-```
+## Installation:
 
-Use it!
+Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
 
-```
-$ jekyll serve
-```
+### License
 
-For more details read about [Jekyll][1] on its web page.
-
-# Setup
-
-Some important configuration can be done in the file `_config.yml`. Please, check the Setup section in that file.
-
-
-## baseurl
-
-`baseurl` parameter is required in the case the site doesn't sit on the root of the domain. For example: http://pietromenna.github.io/jekyll-cayman-theme
-
-In the case above the baseurl should be set to "/jekyll-cayman-theme".
-
-In the case the site sits in the root, you can leave `baseurl` as empty "".
-
-# Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/pietromenn/jekyll-cayman-theme.
-
-# Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-You theme is setup just like a normal Jelyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-# License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
-
-[1]: http://jekyllrb.com/
-[2]: https://github.com/jasonlong
-[3]: http://pages.github.com/
-[4]: https://github.com/jasonlong/cayman-theme
+GNU General Public License v3.0
