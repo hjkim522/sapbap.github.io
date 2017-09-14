@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "서래마을: Y-Style"
-img: 2017-09-14-y-style.png # Add image post (optional)
+img: 2017-09-14.png # Add image post (optional)
 date: 2017-09-14 12:30:00 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [서래마을, 일식, 야끼니꾸]
