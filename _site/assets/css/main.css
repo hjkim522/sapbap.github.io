@@ -4274,7 +4274,7 @@ cite {
 
 .post header img {
   width: 100%;
-  max-height: 500px;
+  /* max-height: 500px; */
   vertical-align: middle;
 }
 
@@ -4465,7 +4465,7 @@ cite {
   padding: 2rem 1rem 4rem;
   width: 960px;
   max-width: 90%;
-  margin: 7rem auto 7rem;
+  margin: 2.5rem auto 2.5rem;
 }
 
 #tags h1 {
