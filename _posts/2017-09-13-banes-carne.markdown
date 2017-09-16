@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "서래마을: BANES CARNE"
-img: hotdog-res.png # Add image post (optional)
 date: 2017-09-13 12:30:00 +0900
-description: # Add post description (optional)
+img: 2017-09-13-lunch2.png
+thumb: 2017-09-13-lunch-thumb.png
 tag: [서래마을, 멕시칸, 핫도그]
-rate: 4.5
+rating: 4.5
 cost: 12000
 ---
 처음가봄. 점심세트메뉴 11900원에 초리조 핫도그, 퀘사디아, 엔칠라다를 팔고있었고, 나는 핫도그를 주문, 우리 팀장님은 퀘사디아, 다른 분들은 엔칠라다를 주문했다. 감자튀김과 탄산음료를 같이 준다.
