@@ -2,7 +2,7 @@
 layout: post
 title: "서래마을: BANES CARNE"
 date: 2017-09-13 12:30:00 +0900
-img: 2017-09-13-lunch2.png
+img: 2017-09-13.png
 thumb: 2017-09-13-lunch-thumb.png
 tag: [서래마을, 멕시칸, 핫도그]
 rating: 4.5
