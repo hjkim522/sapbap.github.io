@@ -2,8 +2,7 @@
 layout: post
 title: "서래마을: 맘(MOM)"
 date: 2017-09-13 19:30:00 +0900
-img: 2017-09-13-3.jpg
-thumb: 2017-09-13-3.jpg
+img: 2017-09-13n-0.jpg
 tag: [서래마을, 한식, 갈비찜]
 rating: 4.7
 cost: 20000
