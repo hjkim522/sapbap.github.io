@@ -2,8 +2,8 @@
 layout: post
 title: "서래마을: 산초메"
 date: 2017-09-15 12:30:00 +0900
-img: 2017-09-15.png
-thumb: 2017-09-15-thumb.png
+img: 2017-09-15.jpg
+thumb: 2017-09-15.jpg
 tag: [서래마을, 일식, 라멘]
 rating: 4.5
 cost: 10000

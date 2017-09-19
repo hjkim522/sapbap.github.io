@@ -2,8 +2,8 @@
 layout: post
 title: "센트럴시티: 순대실록"
 date: 2017-09-19 12:30:00 +0900
-img: 2017-09-19.png
-thumb: 2017-09-19-thumb.png
+img: 2017-09-19-2.jpg
+thumb: 2017-09-19-2.jpg
 tag: [센트럴시티, 한식, 순대국]
 rating: 3.4
 cost: 7000

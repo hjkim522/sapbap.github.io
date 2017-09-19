@@ -2,8 +2,8 @@
 layout: post
 title: "서래마을: 청연"
 date: 2017-09-16 12:30:00 +0900
-img: 2017-09-16.png
-thumb: 2017-09-16.png
+img: 2017-09-16.jpg
+thumb: 2017-09-16.jpg
 tag: [서래마을, 중식, 기스면]
 rating: 3.4
 cost: 7000
